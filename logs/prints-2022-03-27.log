@@ -1,0 +1,8 @@
+16:52:10.095 [main] INFO  resources.Base - Driver initialized
+16:52:43.903 [main] INFO  resources.Base - Navigate to website
+16:52:44.081 [main] INFO  resources.Base - Moved at Mens Section
+16:53:05.858 [main] INFO  resources.Base - clicked on Sport shoes section
+16:53:06.121 [main] INFO  resources.Base - clicked on sort by WhatsNew
+16:53:08.463 [main] INFO  resources.Base - clicked on Puma banrd filter
+16:53:10.822 [main] INFO  resources.Base - clicked on black color filter
+16:53:12.671 [main] INFO  resources.Base - product selected

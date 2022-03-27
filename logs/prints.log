@@ -1,0 +1,7 @@
+16:53:12.687 [main] INFO  resources.Base - Switched to product page window
+16:53:30.986 [main] INFO  resources.Base - product size selected
+16:53:31.078 [main] INFO  resources.Base - product added to bag
+16:53:31.164 [main] INFO  resources.Base - moved to shopping bag
+16:53:55.211 [main] INFO  resources.Base - closed popup
+16:54:06.219 [main] INFO  resources.Base - Product moved to wishlist
+16:54:06.228 [AsyncHttpClient-1-4] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26

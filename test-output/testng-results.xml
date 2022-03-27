@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-27T16:52:08 IST" name="Suite" finished-at="2022-03-27T16:54:06 IST" duration-ms="118190">
+    <groups>
+    </groups>
+    <test started-at="2022-03-27T16:52:08 IST" name="Test" finished-at="2022-03-27T16:54:06 IST" duration-ms="118190">
+      <class name="myntra.AddproductToCart">
+        <test-method is-config="true" signature="BrowserInitialization()[pri:0, instance:myntra.AddproductToCart@51b01960]" started-at="2022-03-27T16:52:08 IST" name="BrowserInitialization" finished-at="2022-03-27T16:52:43 IST" duration-ms="35558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserInitialization -->
+        <test-method signature="addProductToCart()[pri:0, instance:myntra.AddproductToCart@51b01960]" started-at="2022-03-27T16:52:43 IST" name="addProductToCart" finished-at="2022-03-27T16:54:06 IST" duration-ms="82300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductToCart -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:myntra.AddproductToCart@51b01960]" started-at="2022-03-27T16:54:06 IST" name="closeBrowser" finished-at="2022-03-27T16:54:06 IST" duration-ms="306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- myntra.AddproductToCart -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
